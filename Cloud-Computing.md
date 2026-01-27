@@ -5,7 +5,7 @@
 - Faster innovation and scalability
 
 ## Interview Angle
-Q: Why companies move from traditional IT to cloud?
+Q: Why companies move from traditional IT to cloud?\
 A: To reduce CapEx, increase scalability, improve availability, and reduce operational overhead.
 
 ## Certification Angle
