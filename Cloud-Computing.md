@@ -23,12 +23,13 @@ Pay attention to:
 Cloud computing is on-demand delivery of computing resources (servers, storage, databases, networking) over the internet with pay-as-you-use pricing.
 
 ## Traditional vs Cloud
-| Traditional |	Cloud |
-| --- | --- | --- |
-| Buy hardware |	Rent resources |
-| High upfront cost |	Pay only for usage |
-| Slow scaling |	Instant scalability |
-| Manual maintenance |	Managed by provider |
+| Traditional | Cloud |
+| :--- | :--- |
+| Buy hardware | Rent resources |
+| High upfront cost | Pay only for usage |
+| Slow scaling | Instant scalability |
+| Manual maintenance | Managed by provider |
+
 
 ## Types of Cloud Deployment Models
 
